@@ -59,6 +59,11 @@ class TestCase02(unittest.TestCase):
     def tearDownClass(cls):
         cls.driver.quit()
 
+    def test_case04(self):
+        pass
+
+    def test_case05(self):
+        pass
 
 
 
